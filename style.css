@@ -247,7 +247,7 @@ h4{
 @section Footer Style
 */
 #templateFooter{
-    /*@editable*/background-color:#transparent;
+    /*@editable*/background-color: transparent;
     /*@editable*/background-image:url("https://mcusercontent.com/9c877412a2e2ab444fad4f9fe/images/9ebd8ae4-fe71-3b07-eb65-4e63f565a73f.jpg");
     /*@editable*/background-repeat:no-repeat;
     /*@editable*/background-position:center;
@@ -466,4 +466,5 @@ h4{
 .footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
     /*@editable*/font-size:14px !important;
     /*@editable*/line-height:150% !important;
+}
 }
